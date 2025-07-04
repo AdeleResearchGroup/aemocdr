@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+818b5656-e486-5e03-84c1-082e467217b1	3404	case	1575148b-0f63-44ee-86fd-93ae1a02be0b	Neoadjuvant therapy	Notification	2011-10-02T00:00:00	Approved	[intgen.org]: Neoadjuvant therapy
+00c12124-e7d8-4de8-80eb-fefc6225b238	\N	masked_somatic_mutation	009254a2-ea81-4c76-8044-7267a9f81364	General	Notification	2022-02-28T13:46:30.015354-06:00	Approved	Variants from SomaticSniper are not included.

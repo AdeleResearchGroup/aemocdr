@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+0e4ec253-5852-4a38-aed5-c84c65fd9777	\N	masked_somatic_mutation	56ee7c04-78c2-4484-bbff-7bca5056a4e3	General	Notification	2022-02-28T15:11:10.980068-06:00	Approved	Variants from SomaticSniper are not included.
+3803285f-cd9c-543e-befc-392c1d11d884	11968	case	8609edfc-119d-4d63-9188-c86aabd5ca52	History of acceptable prior treatment related to a prior/other malignancy	Notification	2012-11-10T00:00:00	Approved	Prior malignancy  prostate cancer treated with locoregional radiation.

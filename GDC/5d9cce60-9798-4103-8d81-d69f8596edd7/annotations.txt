@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+8609b198-7c83-4623-8171-222572c3a3ec	\N	masked_somatic_mutation	5d9cce60-9798-4103-8d81-d69f8596edd7	General	Notification	2022-02-28T14:03:27.049175-06:00	Approved	Variants from SomaticSniper are not included.
+3c932410-b0b2-55bc-96dc-2c27b520c874	20749	case	a34cfb9c-44dd-4617-bbd1-28edc8d527c4	Item does not meet study protocol	Notification	2014-06-16T00:00:00	Approved	This sarcoma case is a well-differentiated adenocarcinoma and the study requires the cases be de-differentiated.

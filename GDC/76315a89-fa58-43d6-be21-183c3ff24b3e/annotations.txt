@@ -1,0 +1,4 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+cbfa81b5-2cf0-5e8f-afa1-fe90b986286a	15262	case	f093f043-efd4-4cba-a87f-8cbb5c1acd9e	Prior malignancy	Notification	2013-01-31T00:00:00	Approved	Patient had synchronous prostate cancer and prior history of non-muscle invasive bladder cancer. No radiation or systemic chemotherapy.
+c329c596-64a5-4c87-8a92-308177dccb6f	\N	masked_somatic_mutation	76315a89-fa58-43d6-be21-183c3ff24b3e	General	Notification	2022-02-28T14:42:08.335371-06:00	Approved	Variants from SomaticSniper are not included.
+5a8910c3-7f02-5af7-98ab-76aed16bf443	15261	case	f093f043-efd4-4cba-a87f-8cbb5c1acd9e	Synchronous malignancy	Notification	2013-01-31T00:00:00	Approved	Patient had synchronous prostate cancer and prior history of non-muscle invasive bladder cancer. No radiation or systemic chemotherapy.

@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+a1f76735-f482-5751-8706-db7527590eb9	26880	case	10179efc-a091-4119-8ec2-30db6269d674	General	Observation	2015-03-04T00:00:00	Approved	Case originally accepted in the liver study, but is a cholongio-liver mix. This case will not be removed or change studies, but will be analyzed in the CHOL study and not in the LIHC study.
+49eb15ef-5898-4236-9d8b-dea44c60180d	\N	masked_somatic_mutation	3aadee7d-045a-4697-b014-cc9c751f2f20	General	Notification	2022-02-28T13:26:16.718575-06:00	Approved	Variants from SomaticSniper are not included.

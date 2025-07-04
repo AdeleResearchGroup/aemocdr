@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+8d57cf96-0e52-52cb-b023-cf1f84175cf0	18713	analyte	c093cb0a-fa73-42bd-9206-a40e52ec81c6	General	Observation	2013-11-19T00:00:00	Approved	DNA analyte UUID: C093CB0A-FA73-42BD-9206-A40E52EC81C6 was involved in an extraction protocol deviation wherein isopropanol precipitation was used as a means of buffer exchange on the column-eluted analyte.
+0b3fea4a-4f25-4c1f-9fe6-7821b7721b47	\N	masked_somatic_mutation	0c605a6a-2478-4746-ab50-4c27743ffea6	General	Notification	2022-02-28T13:31:13.124450-06:00	Approved	Variants from SomaticSniper are not included.

@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+ad33dcaa-deeb-5404-8bac-6a823824d1fa	23118	case	3e09fd70-6464-42f6-96a6-b51d7c298fc5	Item does not meet study protocol	Notification	2014-10-15T00:00:00	Approved	Per the PAAD EPC, this tumor is atrophic pancreas
+6a8f6ff6-ea58-4cd1-af02-eb879b3724e6	\N	masked_somatic_mutation	7d9bdfde-3726-4ab9-afae-6dc37c4d2893	General	Notification	2022-02-28T12:40:55.102421-06:00	Approved	Variants from SomaticSniper are not included.

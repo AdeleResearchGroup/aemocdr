@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+2534bb5b-1adc-4e3c-85ed-007d1d325052	\N	masked_somatic_mutation	1fb074e9-2858-47c0-a0f9-345a585260f5	General	Notification	2022-02-28T14:04:38.566861-06:00	Approved	Variants from SomaticSniper are not included.
+34fe8fab-2937-5737-a00c-b277512fa5de	15946	case	ca0f032b-a34c-4a92-a403-bc7dc6eca8e9	Prior malignancy	Notification	2013-04-18T00:00:00	Approved	Patient had an unknown prior tumor of the skin. No radiation or systemic chemotherapy.

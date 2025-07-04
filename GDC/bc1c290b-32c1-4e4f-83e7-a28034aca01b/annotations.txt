@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+f3e31f0d-80be-5c8d-9abb-1d7d888aed3d	20728	case	b06cdf61-61c9-4035-a55d-1ef21dc21069	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2014-06-16T00:00:00	Approved	unknown treatment history
+42a6392b-d301-4afc-853c-14316b31540f	\N	masked_somatic_mutation	bc1c290b-32c1-4e4f-83e7-a28034aca01b	General	Notification	2022-02-28T15:36:08.663174-06:00	Approved	Variants from SomaticSniper are not included.
