@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-c2c38cca-782d-5c1b-b3ff-7592634c6884	15283	case	aa6142af-bad7-493c-98a0-fd070de39073	Prior malignancy	Notification	2013-02-01T00:00:00	Approved	Patient had a prior non-muscle invasive bladder cancer. No radiation or systemic chemotherapy.
-4567977d-d8ee-45f9-acd8-235efc429601	\N	masked_somatic_mutation	3c572f2b-e793-4948-a530-09120c66b4ef	General	Notification	2022-02-28T16:11:49.323231-06:00	Approved	Variants from SomaticSniper are not included.

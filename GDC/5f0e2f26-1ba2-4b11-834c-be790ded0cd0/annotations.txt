@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-6959b1ac-9b27-45a8-8349-5aa90b0d510a	\N	masked_somatic_mutation	5f0e2f26-1ba2-4b11-834c-be790ded0cd0	General	Notification	2022-02-28T16:05:03.335195-06:00	Approved	Variants from SomaticSniper are not included.
-5109f0f7-f156-51b7-bc7a-c2d940b84525	11728	case	f5ad138c-1714-41e9-9c2d-c88050bec407	Prior malignancy	Notification	2012-10-31T00:00:00	Approved	Prior malignancy basal cell carcinoma of the skin. No systemic chemotherapy or radiation.

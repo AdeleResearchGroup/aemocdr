@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-2ebda702-5205-4c0d-b0ff-e38448f8f6bb	\N	masked_somatic_mutation	64d66db6-6793-42d3-8f24-12fafe59374e	General	Notification	2022-02-28T15:04:25.822122-06:00	Approved	Variants from SomaticSniper are not included.
-b747281b-5a95-5dbd-9d4a-825041e0a9be	23860	case	c13bac88-c85b-4ee3-a51c-fd503cd7e726	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2014-12-19T00:00:00	Approved	Patient had a prior LGG diagnosis, surgery and radiation to the head. TCGA tumor was resected 10 years later.

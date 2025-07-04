@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-0a9a93bf-80c5-4d1a-9b63-664b30fb8ae1	\N	masked_somatic_mutation	9ba3ad93-ffaa-4aac-b9d4-14d58d4b258a	General	Notification	2022-02-28T14:03:16.967115-06:00	Approved	Variants from SomaticSniper are not included.
-79770fb7-883c-5e34-958a-402e21d12872	15940	case	9c9b53e5-cdbe-4510-a839-4a3b5039681b	Synchronous malignancy	Notification	2013-04-18T00:00:00	Approved	Patient had a synchronous cystic renal cell carcinoma.

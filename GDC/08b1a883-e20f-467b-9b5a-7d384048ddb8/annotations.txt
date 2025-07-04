@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-fa7e92e3-58f7-4c81-9658-4b0fe6801961	\N	masked_somatic_mutation	08b1a883-e20f-467b-9b5a-7d384048ddb8	General	Notification	2022-02-28T12:18:26.366708-06:00	Approved	Variants from SomaticSniper are not included.
-83bffe81-b481-51f5-b867-c30d333b7354	20110	portion	08192fb6-200a-45c9-8d9e-2aec5a70557f	General	Observation	2014-03-14T00:00:00	Approved	Tumor appears to be low purity based on SNP and methylation data.

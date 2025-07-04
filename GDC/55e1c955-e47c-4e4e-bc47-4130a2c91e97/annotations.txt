@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-dffb53fa-9f0d-5c9f-8769-f76c51b4d74b	18700	analyte	971670c8-610e-4731-82fd-1c311c14e769	General	Observation	2013-11-19T00:00:00	Approved	DNA analyte UUID: 971670C8-610E-4731-82FD-1C311C14E769 was involved in an extraction protocol deviation wherein an additional column purification step was used as a means of buffer exchange on the column-eluted analyte.
-b130c2bd-3ce9-47ab-8686-c7002ddf4124	\N	masked_somatic_mutation	55e1c955-e47c-4e4e-bc47-4130a2c91e97	General	Notification	2022-02-28T13:32:28.939545-06:00	Approved	Variants from SomaticSniper are not included.

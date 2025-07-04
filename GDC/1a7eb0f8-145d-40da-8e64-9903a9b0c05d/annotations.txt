@@ -1,2 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-57c32422-ec2c-55b1-a6e0-836a78ebd73d	18725	analyte	bcfdafc7-ec31-4e3b-a9f6-84f936daa3e5	General	Observation	2013-11-19T00:00:00	Approved	DNA analyte UUID: BCFDAFC7-EC31-4E3B-A9F6-84F936DAA3E5 was involved in an extraction protocol deviation wherein isopropanol precipitation was used as a means of buffer exchange on the column-eluted analyte.

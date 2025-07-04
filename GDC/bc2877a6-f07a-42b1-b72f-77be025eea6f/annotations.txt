@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-073b95ad-5b52-4e6b-91db-15466953a40d	\N	masked_somatic_mutation	bc2877a6-f07a-42b1-b72f-77be025eea6f	General	Notification	2022-02-28T14:58:11.705090-06:00	Approved	Variants from SomaticSniper are not included.
-ce832ca7-cf70-5d03-99ef-24712dfd510f	18748	analyte	46bba007-3f7f-4b77-b33d-1151900dfb62	General	Observation	2013-12-03T00:00:00	Approved	DNA analyte UUID: 46BBA007-3F7F-4B77-B33D-1151900DFB62 was involved in an extraction protocol deviation wherein an additional column purification step was used as a means of buffer exchange on the column-eluted analyte.

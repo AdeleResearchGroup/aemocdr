@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-c160499e-6f7b-4db9-bb77-7b37608161ed	\N	masked_somatic_mutation	c01349a9-6aa6-4509-ab0f-7a035343c030	General	Notification	2022-02-28T13:58:16.147266-06:00	Approved	Variants from SomaticSniper are not included.
-1be7d418-81ce-52c4-8feb-7fe23401bf24	23117	case	ad220f0d-06b7-4dad-a87d-36dff31c8623	Item does not meet study protocol	Notification	2014-10-15T00:00:00	Approved	Per the PAAD EPC, this tumor is normal ampula of Vater

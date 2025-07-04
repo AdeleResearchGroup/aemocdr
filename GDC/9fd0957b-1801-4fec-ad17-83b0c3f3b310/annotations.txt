@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-7ff4b1db-45f0-43f7-8b13-9004fd0aaf33	\N	masked_somatic_mutation	9fd0957b-1801-4fec-ad17-83b0c3f3b310	General	Notification	2022-02-28T14:03:22.289329-06:00	Approved	Variants from SomaticSniper are not included.
-2848b6ee-db1d-5a6d-a512-2229c69c1403	23926	sample	db940aab-c3af-407a-801b-93217d48ab8f	Item does not meet study protocol	Notification	2015-01-22T00:00:00	Approved	Normal sample should not have shipped for methylation, please use exome and SNP only.

@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-c92ba5de-b221-4916-bcf5-5db0ed801fe7	\N	masked_somatic_mutation	1534f68a-a464-45a8-b8f1-873aea049be4	General	Notification	2022-02-28T14:21:38.234389-06:00	Approved	Variants from SomaticSniper are not included.
-a56885f3-d296-590e-99a3-4d24b00d4e4e	21870	case	613adbb3-c2d1-4992-9953-c4fadd249001	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2014-08-14T00:00:00	Approved	Patient was given BCG for the prior bladder cancer, which was not approved by the lung group as an acceptable prior treatment. (per Kristen Leraas/BCR TCGA-2222)

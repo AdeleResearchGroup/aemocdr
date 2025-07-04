@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-e018b82c-e9df-551e-8e42-861ef244b56f	18402	analyte	e27e9375-d153-4d0d-80ea-19c0f58c6c60	General	Observation	2013-10-21T00:00:00	Approved	DNA analyte UUID: E27E9375-D153-4D0D-80EA-19C0F58C6C60 was involved in an extraction protocol deviation wherein an additional column purification step was used as a means of buffer exchange on the column-eluted analyte.
-e7ba624c-4457-4155-afc7-58d821cd9fd7	\N	masked_somatic_mutation	ec9557a1-7800-490e-8241-c33e8c26f88d	General	Notification	2022-02-28T15:18:39.574485-06:00	Approved	Variants from SomaticSniper are not included.

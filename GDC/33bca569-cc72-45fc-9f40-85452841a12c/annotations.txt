@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-e59fc69f-f85a-54ae-a677-517efa288692	18403	analyte	5b31eb4a-2559-498b-9204-f6fd17338905	General	Observation	2013-10-21T00:00:00	Approved	DNA analyte UUID: 5B31EB4A-2559-498B-9204-F6FD17338905 was involved in an extraction protocol deviation wherein an additional column purification step was used as a means of buffer exchange on the column-eluted analyte.
-d89d07d4-a790-422b-89bd-356be46dac55	\N	masked_somatic_mutation	33bca569-cc72-45fc-9f40-85452841a12c	General	Notification	2022-02-28T15:24:46.897043-06:00	Approved	Variants from SomaticSniper are not included.

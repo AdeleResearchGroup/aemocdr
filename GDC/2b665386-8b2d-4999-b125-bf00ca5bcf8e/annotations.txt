@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-88620f02-0667-5ceb-bc52-c7cf0081eed0	16481	case	ae2c650c-600b-4c58-893b-7fd73d44af47	Prior malignancy	Notification	2013-07-16T00:00:00	Approved	Patient had a prior skin malignancy. No systemic radiation or chemotherapy.
-9e780214-1ecd-47c9-9d80-0f1917933dcb	\N	masked_somatic_mutation	2b665386-8b2d-4999-b125-bf00ca5bcf8e	General	Notification	2022-02-28T16:01:08.321272-06:00	Approved	Variants from SomaticSniper are not included.

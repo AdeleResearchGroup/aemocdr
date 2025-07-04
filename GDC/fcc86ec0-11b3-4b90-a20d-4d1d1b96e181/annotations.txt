@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-83d473be-92a5-5917-9893-ffb07fc1c769	23123	case	4c9e6085-41c3-4cfe-ad3d-5f94196a86e0	Item does not meet study protocol	Notification	2014-10-15T00:00:00	Approved	Per the PAAD EPC, this tumor is atrophic pancreas with a single focus of low-grade PanIN
-a0ba92c8-cdbc-4fca-b5ad-92563515cbfd	\N	masked_somatic_mutation	fcc86ec0-11b3-4b90-a20d-4d1d1b96e181	General	Notification	2022-02-28T12:41:33.847706-06:00	Approved	Variants from SomaticSniper are not included.

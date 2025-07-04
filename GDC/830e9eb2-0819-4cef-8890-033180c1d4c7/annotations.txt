@@ -1,3 +1,0 @@
-id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
-77f5590b-75e8-4ae9-953e-d6095d255a00	\N	masked_somatic_mutation	830e9eb2-0819-4cef-8890-033180c1d4c7	General	Notification	2022-02-28T15:03:45.993079-06:00	Approved	Variants from SomaticSniper are not included.
-df6299ae-8d90-566d-91de-9d5562848c73	17893	analyte	152d9334-cebc-49b6-8807-965fadcc5565	General	Observation	2013-10-08T00:00:00	Approved	DNA analyte UUID: 152D9334-CEBC-49B6-8807-965FADCC5565 was involved in an extraction protocol deviation wherein isopropanol precipitation was used as a means of buffer exchange on the column-eluted analyte.
