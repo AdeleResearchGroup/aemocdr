@@ -75,15 +75,7 @@ ADDITIONAL SCRIPTS USED BY AE-MLP and TriMOR-DR models:
 - evaluation.py : Provides metrics and visualizations to evaluate model performance.
 
 
-III- Data exploration script:
-
-raw_data_shape.py
-	Purpose: This script is used to explore the structure and content of raw data files from all datasets (CTRP, GDSC, CCLE, TCGA). 
-		 It prints the shape (samples × features) of each modality (expression, mutation, copy number, methylation, etc.) and provides statistics like total mutation counts or feature summaries. 
-		 Useful for verifying data availability and format consistency before preprocessing or training models.
-
-
-IV - Visualization script:
+III - Visualization script:
 
 Heatmap_screening_files.py
 	Purpose: Visualize the content of a drug screening matrix (values -1, 0, 1) as a heatmap.
