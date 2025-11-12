@@ -1,8 +1,0 @@
-.ipynb_checkpoints# Ignore training artifacts
-__pycache__/
-*.pt
-*pth
-runs/
-results/
-*.ipynb_checkpoints/
-*.log
